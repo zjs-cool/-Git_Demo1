@@ -19,3 +19,4 @@ Hello World! Hello Git!
 Hello World! Hello Git!
 Hello World! Hello Git!   master conflict test
 Hello World! Hello Git!   hot-fix conflict test
+This is remote library!
